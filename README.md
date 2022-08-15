@@ -22,7 +22,11 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             coba baca ini
         </speak>
         ```
-        [](audio-ssml/ssml-0.wav)
+        <!-- [](audio-ssml/ssml-0.wav) -->
+        <audio controls="controls">
+        <source type="audio/mp3" src="audio-ssml/ssml-0.wav"></source>
+        <p>Your browser does not support the audio element.</p>
+        </audio>
     - A `p` element represents a paragraph. An `s` element represents a sentence.
         - Example:
         ```xml
