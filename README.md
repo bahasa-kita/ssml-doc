@@ -22,7 +22,8 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             coba baca ini
         </speak>
         ```
-        file://audio-ssml/ssml-0.wav
+        <!-- ![](audio-ssml/ssml-0.wav) -->
+        [](files://audio-ssml/ssml-0.wav)
     - A `p` element represents a paragraph. An `s` element represents a sentence.
         - Example:
         ```xml
