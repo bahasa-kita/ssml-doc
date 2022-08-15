@@ -37,7 +37,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             </p>
         </speak>
         ```
-        ![audio-ssml/ssml-1.wav](audio-ssml/ssml-1.wav)
+        ![](audio-ssml/ssml-1.wav)
 
 ## Features
 - **Say-as**
