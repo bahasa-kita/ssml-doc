@@ -25,7 +25,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
         <!-- ![](/audio-ssml/ssml-0.wav) -->
         <body>
         <audio controls>
-        <source src="https://raw.githubusercontent.com/bahasa-kita/ssml-doc/master/vendor/assets/music/Tetris.mp3" type="audio/wav">
+        <source src="https://raw.githubusercontent.com/bahasa-kita/ssml-doc/master/audio-ssml/ssml-0.wav" type="audio/wav">
         </audio>
         </body>
     - A `p` element represents a paragraph. An `s` element represents a sentence.
