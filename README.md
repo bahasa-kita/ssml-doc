@@ -22,7 +22,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             coba baca ini
         </speak>
         ```
-        ![](audio-ssml/ssml-0.wav)
+        ![](https://github.com/bahasa-kita/ssml-doc/blob/master/audio-ssml/ssml-0.wav)
         <!-- <body>
         <audio controls>
         <source src="audio-ssml/ssml-0.wav" type="audio/wav">
