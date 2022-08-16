@@ -22,12 +22,12 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             coba baca ini
         </speak>
         ```
-        ![](https://github.com/bahasa-kita/ssml-doc/blob/master/audio-ssml/ssml-0.wav)
-        <!-- <body>
+        <!-- ![](https://github.com/bahasa-kita/ssml-doc/blob/master/audio-ssml/ssml-0.wav) -->
+        <body>
         <audio controls>
-        <source src="audio-ssml/ssml-0.wav" type="audio/wav">
+        <source src="https://github.com/bahasa-kita/ssml-doc/blob/master/audio-ssml/ssml-0.wav" type="audio/wav">
         </audio>
-        </body> -->
+        </body>
     - A `p` element represents a paragraph. An `s` element represents a sentence.
         - Example:
         ```xml
