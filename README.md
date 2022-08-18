@@ -331,7 +331,8 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             <voice name="Male 8"> Selamat siang juga </voice>
         </speak>
         ```
-        ![](audio-ssml/ssml-use-18.mov)
+        <!-- ![](audio-ssml/ssml-use-18.mov) -->
+        <video src='audio-ssml/ssml-use-18.mov' width=180/>
 
 ## Example
 - Input:
