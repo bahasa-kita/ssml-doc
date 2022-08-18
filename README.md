@@ -22,8 +22,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             coba baca ini
         </speak>
         ```
-        [audio on here](audio-ssml/ssml-0.wav)
-        https://user-images.githubusercontent.com/26988124/185366215-a811a97b-b809-4e02-8b99-10f8215169e7.mp4
+        [audio on here](https://user-images.githubusercontent.com/26988124/185366215-a811a97b-b809-4e02-8b99-10f8215169e7.mp4)
 
     - A `p` element represents a paragraph. An `s` element represents a sentence.
         - Example:
@@ -35,7 +34,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             </p>
         </speak>
         ```
-        [audio on here](audio-ssml/ssml-1.wav)
+        [audio on here](https://user-images.githubusercontent.com/26988124/185369179-4b4588c8-1aa1-40c3-ab91-23c9fcb49f53.mp4)
 
 ## Features
 - **Say-as**
@@ -104,7 +103,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Kamu urutan <say-as interpret-as="ordinal">10</say-as> dalam baris.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-1.wav)
+            [audio on here]([audio-ssml/ssml-use-1.wav](https://user-images.githubusercontent.com/26988124/185369868-9d2aa7c1-33ec-4607-81a4-dcf5ffc1044f.mp4))
 
     - **Cardinal**:
         - Attribute: 
@@ -115,7 +114,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Angkamu adalah <say-as interpret-as="cardinal">10</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-12.wav)
+            [audio on here]([audio-ssml/ssml-use-12.wav](https://user-images.githubusercontent.com/26988124/185370071-2001a152-4355-492e-94ed-43ea0f7310c9.mp4))
 
     - **Currencies**:
         - Attribute: 
