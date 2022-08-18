@@ -23,6 +23,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
         </speak>
         ```
         [audio on here](audio-ssml/ssml-0.wav)
+        https://user-images.githubusercontent.com/26988124/185366215-a811a97b-b809-4e02-8b99-10f8215169e7.mp4
 
     - A `p` element represents a paragraph. An `s` element represents a sentence.
         - Example:
