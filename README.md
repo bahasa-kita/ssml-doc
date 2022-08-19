@@ -103,7 +103,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Kamu urutan <say-as interpret-as="ordinal">10</say-as> dalam baris.
             </speak>
             ```
-            [audio on here]([audio-ssml/ssml-use-1.wav](https://user-images.githubusercontent.com/26988124/185369868-9d2aa7c1-33ec-4607-81a4-dcf5ffc1044f.mp4))
+            [audio on here](https://user-images.githubusercontent.com/26988124/185369868-9d2aa7c1-33ec-4607-81a4-dcf5ffc1044f.mp4)
 
     - **Cardinal**:
         - Attribute: 
@@ -114,7 +114,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Angkamu adalah <say-as interpret-as="cardinal">10</say-as>.
             </speak>
             ```
-            [audio on here]([audio-ssml/ssml-use-12.wav](https://user-images.githubusercontent.com/26988124/185370071-2001a152-4355-492e-94ed-43ea0f7310c9.mp4))
+            [audio on here](https://user-images.githubusercontent.com/26988124/185370071-2001a152-4355-492e-94ed-43ea0f7310c9.mp4)
 
     - **Currencies**:
         - Attribute: 
@@ -125,7 +125,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Uangku tinggal <say-as interpret-as="currencies">Rp100.000</say-as> di bank.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-2.wav)
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534416-9aa6b379-7282-4bef-be74-391ae377ada5.mp4)
 
     - **Characters**:
         - Attribute: 
@@ -139,7 +139,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 coba baca ini <say-as interpret-as="characters" format="glyphs">SSML</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-3.wav)
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534457-e431fefa-03f3-40f7-ac76-701537665df2.mp4)
 
     - **Fraction**:
         - Attribute: 
@@ -150,7 +150,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 angka ini dibaca <say-as interpret-as="fraction">1/2, 1/4, 2/5</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-4.wav)
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534510-786e8490-2281-4c9c-9251-a47c7528bcd0.mp4)
 
     - **Unit**:
         - Attribute: 
@@ -161,7 +161,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Jarak tempuhnya bisa <say-as interpret-as="unit">50 km/L</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-17.wav)
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534542-7ed1c40f-7ebc-4669-aa29-30c8296a1320.mp4)
 
     - **Verbatim**:
         - Attribute: 
@@ -172,7 +172,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 ini dibaca <say-as interpret-as="verbatim">abcdefghijklmnopqrstuvwxyz</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-5.wav)
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534621-d9b70372-8e49-4594-aa99-fa8389753f16.mp4)
 
     - **Phonenumber**:
         - Attribute: 
@@ -183,7 +183,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 ini dibaca <say-as interpret-as="phonenumber">+62812-7337-7666</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-13.wav)
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534686-84e86cb6-1a59-4bcc-b1a4-20ac560e6f51.mp4)
 
     - **Webmail**:
         - Attribute: 
@@ -194,8 +194,8 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 coba buka situs ini <say-as interpret-as="webmail">www.detik.com</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-6.wav)
-    
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534789-4307f66b-4881-4dd1-9499-ef92c4010703.mp4)
+
     - **Name**:
         - Attribute: 
             - `interpret-as="name"`
@@ -205,8 +205,8 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 nama saya <say-as interpret-as="name">Prof. Dr. Jauhari Nasution, S.T., M.T., Ph.D.</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-14.wav)
-    
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534852-fd90b420-0ee8-4ee6-b097-af74c5100a46.mp4)
+
     - **Roman-Number**:
         - Attribute: 
             - `interpret-as="roman-number"`
@@ -216,8 +216,8 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 angka romawi berikut adalah <say-as interpret-as="roman-number">XXXIII</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-7.wav)
-    
+            [audio on here](https://user-images.githubusercontent.com/26988124/185534921-7bc49594-34b7-4e8a-951c-6c8966a19c88.mp4)
+
     - **Date**:
         - Attribute: 
             - `interpret-as="date"`
@@ -238,8 +238,8 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Mengucapkan tanggal <say-as interpret-as="date" format="dmy">10-9-1960</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-15.wav)
-    
+            [audio on here](https://user-images.githubusercontent.com/26988124/185535235-dc0948cb-6418-4c9c-a78b-09d4c1753692.mp4)
+
     - **Duration**:
         - Attribute: 
             - `interpret-as="duration"`
@@ -259,8 +259,8 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Mengucapkan durasi <say-as interpret-as="duration" format="h:m:s">10:12:45</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-16.wav)
-    
+            [audio on here](https://user-images.githubusercontent.com/26988124/185535312-603ab222-1fa9-4796-88a8-a992fde13d10.mp4)
+
     - **Time**:
         - Attribute: 
             - `interpret-as="time"`
@@ -277,7 +277,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
                 Mengucapkan waktu <say-as interpret-as="time" format="hms24" type="1" prefix="pukul">2:30 WIB</say-as>.
             </speak>
             ```
-            [audio on here](audio-ssml/ssml-use-8.wav)
+            [audio on here](https://user-images.githubusercontent.com/26988124/185535377-0b232f2b-51af-4985-9d46-50a53317b289.mp4)
 
 - **Sub**:
     - Attribute:
@@ -288,7 +288,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             Saya bisa menggantikan suatu frasa, seperti <sub alias="World Wide Web Consortium">W3C</sub>.
         </speak>
         ```
-        ![audio on here](audio-ssml/ssml-use-9.wav)
+        [audio on here](https://user-images.githubusercontent.com/26988124/185535492-218f5019-586c-4327-8a68-7e4e1a9623da.mp4)
 
 - **Break**:
     - Attribute:
@@ -299,7 +299,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
            Saya bisa jeda 3 detik <break time="3s"/> seperti tadi.
         </speak>
         ```
-        ![audio on here](audio-ssml/ssml-use-10.wav)
+        [audio on here](https://user-images.githubusercontent.com/26988124/185535527-48fc5e18-9718-4a2e-855e-86222689f73b.mp4)
 
 - **Audio**
     - Attribute:
@@ -314,7 +314,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             <audio soundlevel="-5"> Saya bisa kurangi volume </audio>.
         </speak>
         ```
-        ![audio on here](audio-ssml/ssml-use-11.wav)
+        [audio on here](https://user-images.githubusercontent.com/26988124/185535652-d0cc8cb6-a23a-4d1c-b5b0-b5a9c7ca72f5.mp4)
 
 - **Voice**
     - Attribute:
@@ -327,7 +327,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             <voice name="Male 8"> Selamat siang juga </voice>
         </speak>
         ```
-        ![audio on here](audio-ssml/ssml-use-18.wav)
+        [audio on here](https://user-images.githubusercontent.com/26988124/185535706-7d9a326e-f3fc-426e-abe5-4c86d16282ec.mp4)
 
 ## Example
 - Input:
@@ -370,7 +370,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
     ```
 
 - Result:
-    - ![audio on here](audio-ssml/ssml-example-all.wav)
+    - [audio on here](https://user-images.githubusercontent.com/26988124/185535798-62540f15-8417-4e1e-98c6-c0e236afcdac.mp4)
 
 ## Reference
 
