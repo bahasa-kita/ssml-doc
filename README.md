@@ -305,6 +305,9 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
     - Attribute:
         - `speed="1.2"` default: `1.0`
         - `soundlevel="5"` default: `0`
+    - Range List:
+        - Speed &rarr; `0,5` -- `1,5`
+        - SoundLevel(Volume) &rarr; `-10` -- `10`
     - Example:
         ```xml
         <speak>
@@ -320,6 +323,8 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
     - Attribute:
         - `name="Female 4"`
         - `name="Male 8"`
+    - Range List:
+        - List of Speaker &rarr; `Female 1` -- `Female 7` & `Male 1` -- `Male 8`
     - Example:
         ```xml
         <speak>
