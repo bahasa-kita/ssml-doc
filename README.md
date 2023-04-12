@@ -351,29 +351,6 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
     </speak>
     ```
 
-- Ouput Normalization text:
-    ```json
-    [
-        "ini adalah contoh és és ém él." ,
-        [
-            "saya bisa jeda tiga detik." ,
-            "<speak> <break time="3s"/> </speak>"
-        ] ,
-        "saya bisa mengucapkan kardenel." ,
-        "angkamu adalah sepuluh." ,
-        "atau saya bisa mengucapkan ordinal." ,
-        "kamu urutan kesepuluh dalam baris." ,
-        "atau saya bahkan bisa mengucapkan digit." ,
-        "digit untuk angka sepuluh adalah satu nol." ,
-        "saya juga bisa menggantikan suatu frasa, seperti werld wayd wéb kensowrsyiem." ,
-        "mengucapkan tanggal sepuluh séptémber seribu sembilan ratus enam puluh." ,
-        "mengucapkan waktu pukul dua léwat tiga puluh menit wé i bé." ,
-        "akhirnya, saya bisa mengucapkan satu paragraf dengan dua kalimat." ,
-        "ini adalah kalimat pertama." ,
-        "ini adalah kalimat kedua."
-    ]
-    ```
-
 - Result:
     - [audio on here](https://user-images.githubusercontent.com/26988124/185535798-62540f15-8417-4e1e-98c6-c0e236afcdac.mp4)
 
