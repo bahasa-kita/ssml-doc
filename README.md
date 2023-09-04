@@ -305,16 +305,23 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
     - Attribute:
         - `speed="1.2"` default: `1.0`
         - `soundlevel="5"` default: `0`
+        - `pitch="x-low" default: `normal`
     - Range List:
         - Speed &rarr; `0,5` -- `1,5`
         - SoundLevel(Volume) &rarr; `-10` -- `10`
+        - Pitch &rarr; `x-low`, `low`, `normal`, `high`, and `x-high`
     - Example:
         ```xml
         <speak>
-            <audio speed="1.2"> saya bisa percepat audio </audio>.
-            <audio speed="0.8"> saya bisa perlambat audio </audio>.
-            <audio soundlevel="5"> Saya bisa naikan volume </audio>.
-            <audio soundlevel="-5"> Saya bisa kurangi volume </audio>.
+            <audio speed="1.5"> saya bisa mempercepat audio </audio>.
+            <audio speed="0.5"> saya bisa memperlambat audio </audio>.
+            <audio soundlevel="5"> Saya bisa menaikan volume audio </audio>.
+            <audio soundlevel="-5"> Saya bisa mengurangi volume audio </audio>.
+            <audio pitch="x-low"> Saya bicara dengan intonasi sangat rendah </audio>.
+            <audio pitch="low"> Saya bicara dengan intonasi cukup rendah </audio>.
+            <audio pitch="normal"> Saya bicara dengan intonasi normal </audio>.
+            <audio pitch="high"> Saya bicara dengan intonasi cukup tinggi </audio>.
+            <audio pitch="x-high"> Saya bicara dengan intonasi sangat tinggi </audio>.
         </speak>
         ```
         [audio on here](https://user-images.githubusercontent.com/26988124/185535652-d0cc8cb6-a23a-4d1c-b5b0-b5a9c7ca72f5.mp4)
