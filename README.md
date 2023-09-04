@@ -324,7 +324,7 @@ This document is **SSML** documentation, what is **SSML**, how to use **SSML**, 
             <audio pitch="x-high"> Saya bicara dengan intonasi sangat tinggi </audio>.
         </speak>
         ```
-        [audio on here](https://user-images.githubusercontent.com/26988124/185535652-d0cc8cb6-a23a-4d1c-b5b0-b5a9c7ca72f5.mp4)
+        [audio on here](https://github.com/bahasa-kita/ssml-doc/assets/46708762/316cb66f-c8c9-4143-b79f-b74f0dfd97d3)
 
 - **Voice**
     - Attribute:
